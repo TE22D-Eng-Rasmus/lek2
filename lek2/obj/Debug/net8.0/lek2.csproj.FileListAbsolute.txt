@@ -12,3 +12,4 @@ c:\Users\rasmus.eng\programering\prog2\lek2\lek2\obj\Debug\net8.0\refint\lek2.dl
 c:\Users\rasmus.eng\programering\prog2\lek2\lek2\obj\Debug\net8.0\lek2.pdb
 c:\Users\rasmus.eng\programering\prog2\lek2\lek2\obj\Debug\net8.0\lek2.genruntimeconfig.cache
 c:\Users\rasmus.eng\programering\prog2\lek2\lek2\obj\Debug\net8.0\ref\lek2.dll
+c:\Users\rasmus.eng\programering\prog2\lek2\lek2\obj\Debug\net8.0\lek2.sourcelink.json
